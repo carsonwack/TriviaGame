@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    z-index: -1;
+    background-size:cover
+}
+
+#back {
+    background-color: #DAB832;
+    min-height: 500px;
+    border: solid;
+    border-width: 2px;
+}
+
+.large-title {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.time-remaining {
+    margin-top: 80px;
+}
+
+
+.start-button {
+    min-width: 140px;
+}
+
+
+#time-remaining {
+    text-align: center;
+}
+
+#answers {
+    text-align: center;
+}
+
+.question {
+    font-size: 14px;
+}
