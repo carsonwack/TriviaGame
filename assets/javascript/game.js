@@ -1,5 +1,9 @@
 $(document).ready(function () {
 
+    let correctCnt = 0;
+    let incorrectCnt = 0;
+    let unansweredCnt = 0;
+
     let intervalId;
     let answerTime = 30;
 
@@ -23,14 +27,34 @@ $(document).ready(function () {
             }
         }
         $(".question").text("Stating an argument in a way that assumes its conclusions are true--thereby avoiding the controversial point")
-        $("#answers").append(`<div class="btn-group-vertical"> 
-    <button type="button" class="btn btn-primary" id="a">${nonSequitur}</button>
-    <button type="button" class="btn btn-primary" id="b">${strawMan}</button>
-    <button type="button" class="btn btn-primary" id="c">${beggingTheQuestion}</button>
-    <button type="button" class="btn btn-primary" id="d">${slipperySlope}</button> </div>`)
+        $("#answers").append(`<div class="btn-group-vertical" id="firstQ"> 
+    <button type="button" class="btn btn-primary">${nonSequitur}</button>
+    <button type="button" class="btn btn-primary">${strawMan}</button>
+    <button type="button" class="btn btn-primary">${beggingTheQuestion}</button>
+    <button type="button" class="btn btn-primary">${slipperySlope}</button> </div>`)
         
-        $()
+
+        $(".btn-group-vertical").click(function (event) {
+            if (event.target.textContent === "Begging The Question") {
+                correctCnt += 1;
+
+                console.log(correctCnt);
+            } 
+            else {
+                incorrectCnt += 1;
+            }
+        });
+
+        if (answerTime == 0) {
+            unansweredCnt += 1;
+        }
+
+
     });
+
+
+
+
 //     on click of answer button...
 
 //     -if selected right answer
