@@ -41,4 +41,11 @@ body {
 
 .question {
     font-size: 14px;
+    text-align: center;
+}
+
+img {
+    width: 215px;
+    height: 180px;
+    margin: 15px;
 }
