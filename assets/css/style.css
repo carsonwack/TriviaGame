@@ -49,3 +49,33 @@ img {
     height: 180px;
     margin: 15px;
 }
+
+
+.ans {
+    background-color: khaki;
+    color: black;
+    border; solid;
+    border-width: 4px;
+    border-color: #DAB832;
+    min-width: 270px;
+}
+
+.ans:hover {
+    background-color: #DAB832;
+    border-width: 3px;
+    color: black;
+    border-color: black;
+}
+
+.start-button, .restart-button {
+    background-color: black;
+    border-color: black;
+}
+
+.start-button:hover {
+    background-color: black;
+}
+
+.restart-button:hover {
+    background-color: black;
+}
