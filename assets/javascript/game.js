@@ -13,7 +13,7 @@ $(document).ready(function () {
     let slipperySlope = "Slippery Slope";
     let nonSequitur = "Non Sequitur";
 
-    let questions = ["When an argument's conclusion is contained within its premises--thereby skipping over a main controversial point.", "Dealing with the weakest form of someone else's argument.", "Attacking a person rather than their argument.", "Assuming that if one thing happens, a series of consequences are bound to follow.", "The argument's conclusion simply does not follow from its premises."];
+    let questions = ["When an argument's conclusion is contained within its premises--thereby skipping over a main controversial point.", "Dealing with the weakest form of someone else's argument.", "Attacking a person rather than their argument.", "Assuming that if one thing happens, a series of consequences are bound to follow.", "When an argument's conclusion simply does not follow from its premises."];
 
     let answers = [beggingTheQuestion, strawMan, adHominem, slipperySlope, nonSequitur];
 
