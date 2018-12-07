@@ -1,3 +1,7 @@
+# Deployed at: 
+https://carsonwack.github.io/TriviaGame/
+
+
 # TriviaGame
 
 
