@@ -13,7 +13,8 @@ Simply visit https://carsonwack.github.io/TriviaGame/
 Command-Line:
 1. git clone https://github.com/carsonwack/TriviaGame.git
 2. cd TriviaGame
+3. open index.html
 
 
-Browser:
-1. visit localhost:3000 and add burgers to devour!
+Code Editor:
+1. open index.html in browser
