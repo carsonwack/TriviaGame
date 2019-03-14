@@ -5,7 +5,7 @@
 
 ### Web Use
 
-Simply visit https://carsonwack.github.io/TriviaGame/
+Simply visit **[this github pages link](https://carsonwack.github.io/TriviaGame)** and answer questions!
 
 <br/><br/>
 
