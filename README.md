@@ -5,7 +5,7 @@
 
 ### Web Use
 
-Simply visit **[this Heroku link](https://recipe-to-grocery-list.herokuapp.com)**!
+Simply visit **[this Github Pages link](https://carsonwack.github.io/TriviaGame)**!
 
 <br/><br/>
 
