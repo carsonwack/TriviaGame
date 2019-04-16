@@ -13,6 +13,7 @@ Simply visit **[this Heroku link](https://recipe-to-grocery-list.herokuapp.com)*
 Command-Line:
 1. git clone https://github.com/carsonwack/TriviaGame.git
 2. cd TriviaGame
-3. open index.html </br>
+3. open index.html
+
 Code Editor:
 open index.html in browser
