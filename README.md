@@ -5,7 +5,7 @@
 
 ### Web Use
 
-Simply visit **[this github pages link](https://recipe-to-grocery-list.herokuapp.com)**!
+Simply visit **[this Heroku link](https://recipe-to-grocery-list.herokuapp.com)**!
 
 <br/><br/>
 
