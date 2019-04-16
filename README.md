@@ -16,4 +16,4 @@ Command-Line:
 3. open index.html
 
 Code Editor:
-open index.html in browser
+1. open index.html in browser
