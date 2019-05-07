@@ -1,5 +1,6 @@
 # Logical Fallacy Trivia Game
-### -A multiple choice trivia game with a "logical fallacy" theme.
+### A multiple choice trivia game with a "logical fallacy" theme.
+![](coverImage/trivia.png)
 
 <br/>
 
